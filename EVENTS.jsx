@@ -71,7 +71,7 @@ function Events() {
       description: "Security Protocol Assessment. Payload Delivery.",
       level: "HARD",
       link: "HARD",
-      img: ROBLOX,
+      img: "https://tse1.mm.bing.net/th/id/OIP.mrDR5QjhK-yJJHY27u4LOQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
       buttonText: "EXECUTE_SESSION"
     },
     {
@@ -80,7 +80,7 @@ function Events() {
       description: "Vulnerability Exploitation. System Override.",
       level: "HARD",
       link: "HARD",
-      img: FORTINITE,
+      img: "https://tse1.mm.bing.net/th/id/OIP.mrDR5QjhK-yJJHY27u4LOQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
       buttonText: "INITIATE_BREACH"
     },
     {
@@ -89,7 +89,7 @@ function Events() {
       description: "Encryption Key Recovery. Access Escalation.",
       level: "HARD",
       link: "HARD",
-      img: MINECRAFT,
+      img: "https://tse1.mm.bing.net/th/id/OIP.mrDR5QjhK-yJJHY27u4LOQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
       buttonText: "CRACK_CIPHER"
     },
     {
@@ -98,7 +98,7 @@ function Events() {
       description: "Deep Freeze Protocol. Identity Masking.",
       level: "HARD",
       link: "HARD",
-      img: CS2,
+      img: "https://ichef.bbci.co.uk/news/640/cpsprodpb/BF0D/production/_106090984_2e39b218-c369-452e-b5be-d2476f9d8728.jpg",
       buttonText: "EXECUTE_RESURECTION"
     },
     {
@@ -107,7 +107,7 @@ function Events() {
       description: "Neural Interface Trace. Memory Extraction.",
       level: "HARD",
       link: "HARD",
-      img: LoL,
+      img: "https://ichef.bbci.co.uk/news/640/cpsprodpb/BF0D/production/_106090984_2e39b218-c369-452e-b5be-d2476f9d8728.jpg",
       buttonText: "DEPLOY_SIPHON"
     },
     {
@@ -116,7 +116,7 @@ function Events() {
       description: "Network Mappers. Surveillance Evasion.",
       level: "HARD",
       link: "HARD",
-      img: ROBLOX,
+      img: "https://ichef.bbci.co.uk/news/640/cpsprodpb/BF0D/production/_106090984_2e39b218-c369-452e-b5be-d2476f9d8728.jpg",
       buttonText: "LAUNCH_PROXY"
     },
     {
@@ -125,7 +125,7 @@ function Events() {
       description: "Knowledge Transfer. System Adaptation.",
       level: "HARD",
       link: "HARD",
-      img: FORTINITE,
+      img: "https://www.anchorcounselingcenters.com/uploads/3/8/0/7/38079979/the-avengers-wide_orig.jpg",
       buttonText: "ENABLE_LEARNING"
     },
     {
@@ -134,7 +134,7 @@ function Events() {
       description: "Dark Web Filtration. Breach Containment.",
       level: "HARD",
       link: "HARD",
-      img: MINECRAFT,
+      img: "https://www.anchorcounselingcenters.com/uploads/3/8/0/7/38079979/the-avengers-wide_orig.jpg",
       buttonText: "PURGE_TRACE"
     },
     {
@@ -143,7 +143,7 @@ function Events() {
       description: "Ghost Protocol Operations. Data Recovery.",
       level: "HARD",
       link: "HARD",
-      img: CS2,
+      img: "https://www.anchorcounselingcenters.com/uploads/3/8/0/7/38079979/the-avengers-wide_orig.jpg",
       buttonText: "RESTORE_SHADOW"
     },
     {
@@ -152,7 +152,7 @@ function Events() {
       description: "Silent Mode Execution. Trace Elimination.",
       level: "HARD",
       link: "HARD",
-      img: LoL,
+      img: "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
       buttonText: "ACTIVATE_GHOST"
     },
     {
@@ -161,7 +161,7 @@ function Events() {
       description: "Advanced Threat Analysis. Countermeasure Deployment.",
       level: "HARD",
       link: "HARD",
-      img: ROBLOX,
+      img: "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
       buttonText: "HUNT_THREATS"
     },
     {
@@ -170,7 +170,7 @@ function Events() {
       description: "Central Intelligence Hub. Command & Control.",
       level: "HARD",
       link: "HARD",
-      img: FORTINITE,
+      img: "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
       buttonText: "ESTABLISH_LINK"
     }
   ];
@@ -215,5 +215,6 @@ function Events() {
     </div>
   );
 }
+
 
 export default Events;
